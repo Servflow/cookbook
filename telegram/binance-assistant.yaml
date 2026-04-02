@@ -159,20 +159,6 @@ responses:
         file:
             type: ""
             identifier: ""
-    save_success:
-        name: save_success
-        code: 200
-        template: ""
-        type: ""
-        responseObject:
-            value: ""
-            fields:
-                message:
-                    value: Credentials saved successfully.
-                    fields: {}
-        file:
-            type: ""
-            identifier: ""
     success:
         name: success
         code: 200
